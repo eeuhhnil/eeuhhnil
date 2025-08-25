@@ -40,8 +40,8 @@ A passionate **Backend Developer** specializing in building scalable and high-pe
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=eeuhhnil&repo=auth-template&show_owner:true&theme=radical" alt="Auth Template" style="width: 400px; max-width: 100%;">
   </a>
   </a>
-    <a href="https://github.com/eeuhhnil/porfolio-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eeuhhnil&repo=porfolio-api&show_owner:true&theme=radical" alt="Discord Monitor" style="width: 400px; max-width: 100%;"> 
+    <a href="https://github.com/eeuhhnil/portfolio-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eeuhhnil&repo=portfolio-api&show_owner:true&theme=radical" alt="Portfolio Monitor" style="width: 400px; max-width: 100%;"> 
   </a>
 </div>
 </div>
