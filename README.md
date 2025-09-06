@@ -44,7 +44,7 @@ A passionate **Backend Developer** specializing in building scalable and high-pe
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=eeuhhnil&repo=portfolio-api&show_owner:true&theme=radical" alt="Portfolio API" style="width: 400px; max-width: 100%;"> 
   </a>
   </a>
-    <a href="https://github.com/eeuhhnil/work-hub-api">
+    <a href="https://github.com/eeuhhnil/work-hub">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=eeuhhnil&repo=work-hub&show_owner:true&theme=radical" alt="Work Hub API" style="width: 400px; max-width: 100%;"> 
   </a>
 </div>
