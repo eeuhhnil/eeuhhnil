@@ -1,7 +1,6 @@
 # 💫 About Me 💫
 **Hi there! I'm Hue Linh** 👋  
-A passionate **Backend Developer** specializing in building scalable and high-performance server solutions. I love architecting robust systems and solving complex problems through clean, efficient code.
-
+A passionate **Business Analyst** specializing in analyzing requirements and designing effective processes. I enjoy turning complex information into clear, actionable insights that support successful project outcomes.
 ---
 
 <div align="center">
