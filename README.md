@@ -27,12 +27,11 @@ I enjoy turning complex information into clear, actionable insights that support
 ### 📊 BA Tools & Methodologies 📊  
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=miro&logoColor=black)  
-
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-005FAD?style=for-the-badge&logo=visual-paradigm&logoColor=white)
 📌 **Methodologies**: Agile / Scrum / Kanban | User Stories | Use Cases | BPMN | UML  
 
 </div>
