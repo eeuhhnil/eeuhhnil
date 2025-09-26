@@ -32,7 +32,8 @@ I enjoy turning complex information into clear, actionable insights that support
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
 ![Visual Paradigm](https://img.shields.io/badge/Visual%20Paradigm-005FAD?style=for-the-badge&logo=visual-paradigm&logoColor=white)
-📌 **Methodologies**: Agile / Scrum / Kanban | User Stories | Use Cases | BPMN | UML  
+
+📌 **Methodologies**: Agile / Scrum /  | User Stories | Use Cases | BPMN | UML  
 
 </div>
 
